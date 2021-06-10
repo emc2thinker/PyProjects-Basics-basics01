@@ -1,3 +1,4 @@
 workspace.code-workspace
 githubtoken.txt
 venv
+.vscode
